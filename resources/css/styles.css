@@ -304,11 +304,11 @@ header .nav-container{
 	color: black;
 }
 .sticky .main-nav li a:link,
-.sticky .main-nav.nav-show li a:visited {
+.sticky .main-nav.nav-show li a {
 	padding: 8px 0;
 	color: white;
 }
-.sticky .main-nav li a:visited {
+.sticky .main-nav li a {
 	padding: 8px 0;
 	color: black;
 }
