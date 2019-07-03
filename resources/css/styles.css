@@ -295,7 +295,7 @@ header .nav-container{
 }
 
 .sticky.nav-show {
-	color: rgba(0,0,0,0.5);
+	color: #333;
 }
 
 .sticky .main-nav li a:link,
