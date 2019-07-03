@@ -308,7 +308,10 @@ header .nav-container{
 	padding: 8px 0;
 	color: white;
 }
-
+.sticky .main-nav li a:visited {
+	padding: 8px 0;
+	color: black;
+}
 
 .sticky .logo {
 	display: none;
